@@ -1,4 +1,4 @@
-# Hashketball
+<!-- # Hashketball
 
 ## Learning Goals
 
@@ -117,10 +117,9 @@ way software is "grown" in the real world.
   returns an `Array` of that team's colors.
 
 * Build a method, `team_names`, that operates on the game `Hash` to return an
-  `Array` of the team names.
+  `Array` of the team names. -->
 
-* Build a method, `player_numbers`, that takes in an argument of a team name and
-  returns an `Array` of the jersey numbers for that team.
+<!--   -->
 
 * Build a method, `player_stats`, that takes in an argument of a player's name
   and returns a hash of that player's stats.
